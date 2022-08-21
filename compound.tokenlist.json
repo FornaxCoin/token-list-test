@@ -1,6 +1,6 @@
 {
   "name": "Fornax",
-  "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_FRX.svg",
+  "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list-test/master/assets/asset_FRX.svg",
   "keywords": [
     "fornax",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Wrapped Fornax",
       "symbol": "WFRX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_FRX.svg"
+      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list-test/master/assets/asset_FRX.svg"
     },
     {
       "chainId": 13937,
@@ -21,7 +21,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_BTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list-test/master/assets/asset_BTC.svg"
     },
     {
       "chainId": 13937,
@@ -29,7 +29,7 @@
       "name": "Dorado",
       "symbol": "DRD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_BTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list-test/master/assets/asset_BTC.svg"
     }
   ],
   "version": {
